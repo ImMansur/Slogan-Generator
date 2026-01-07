@@ -28,6 +28,18 @@ pip install openai python-dotenv
 
 ---
 
+## 🔐 Environment Variables
+
+Create a `.env` file in the project root:
+
+```env
+AZURE_OPENAI_API_KEY=your_api_key_here
+AZURE_OPENAI_ENDPOINT=https://your-resource-name.openai.azure.com/
+AZURE_OPENAI_DEPLOYMENT=gpt-4.1
+```
+
+---
+
 ## ▶️ Run
 
 ```bash
