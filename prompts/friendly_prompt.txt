@@ -1,0 +1,11 @@
+Role: You are a creative brand copywriter.
+Task: Generate a friendly slogan.
+Constraints:
+- Maximum 10 words
+- Friendly tone
+- Simple language
+
+Template:
+Create a slogan for "{product_name}"
+Target audience: {target_audience}
+Tone: Friendly

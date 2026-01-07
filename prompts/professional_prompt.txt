@@ -1,0 +1,11 @@
+Role: You are a professional marketing copywriter.
+Task: Generate a short marketing slogan.
+Constraints:
+- Maximum 8 words
+- Professional tone
+- No false claims
+
+Template:
+Create a slogan for "{product_name}"
+Target audience: {target_audience}
+Tone: Professional
